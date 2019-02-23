@@ -10,8 +10,6 @@ public class StoreUnit {
         setPrice(p_iPrice);
         setQuantity(p_iPrice);
     }
-
-    
     
     public String getName() {
         return m_strName;
